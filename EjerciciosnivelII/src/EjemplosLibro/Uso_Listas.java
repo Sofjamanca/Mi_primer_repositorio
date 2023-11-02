@@ -8,13 +8,12 @@ public class Uso_Listas {
 	public static HashMap <Integer, String> miDiccionario = new HashMap <Integer, String>();
 	
 	
-	public static void main(String[] args) {
-		
-		miDiccionario .put(35750989, "Lucia Barrionuevo");
+	public static void main(String[] args) {)
+		miDiccionario .put(35750989, "Lucia Lola");
 		miDiccionario .put(36474789, "Luca Piedrabuena");
 		miDiccionario .put(41222838, "Lara Paredes");
 		miDiccionario .put(42525252, "Ara Alala");
-		miDiccionario .put(44065794, "Sofia Jamanca");
+		miDiccionario .put(44065794, "Sofia Guadalupe Jamanca");
 		
 		Iterator it = miDiccionario.keySet().iterator();
 		while(it.hasNext()){
